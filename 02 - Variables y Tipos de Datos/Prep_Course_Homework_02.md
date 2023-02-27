@@ -4,7 +4,7 @@
 
 2) Imprimir el tipo de dato de la constante 8.5
 
-3) Imprimir el tipo de dato de la variable creada en el punto 1
+3) Imprimir el tipo de dato de la variable creada en el punto 10
 
 4) Crear una variable que contenga tu nombre
 
