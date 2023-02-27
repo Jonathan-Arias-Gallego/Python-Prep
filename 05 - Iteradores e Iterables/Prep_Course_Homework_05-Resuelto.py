@@ -16,7 +16,7 @@ while (n < 0):
 print(lista)
 
 
-# 2) ¿Con un ciclo while sería posible recorrer la lista para imprimir sólo los números pares?
+# 2) ¿Con un ciclo while sería posible recorrer la lista para imprimir sólo los números pares
 
 # In[3]:
 
